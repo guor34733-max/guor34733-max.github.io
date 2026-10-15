@@ -1,0 +1,297 @@
+[
+  {
+    "id": "2026-10-forums",
+    "date": "2026-10-08",
+    "cover": "images/web/forum-fintech-panel.jpg",
+    "image": "images/web/forum-fintech-panel.jpg",
+    "images": [
+      "images/web/forum-fintech-panel.jpg",
+      "images/web/forum-tedx.jpg",
+      "images/web/forum-backdrop.jpg"
+    ],
+    "tags": [
+      "forum"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "秋天的论坛季📒｜AI 时代的金融科技，我听到了什么",
+      "text": "最近连着跑了好几场论坛和讲座🎤\n从「Future of FinTech in the Age of AI」圆桌，到 TEDx 现场，再到全球论坛的背景板打卡📸\n每一场都记满了笔记，越听越确定自己想往金融科技走✨\n#会议论坛 #金融科技 #AI #新加坡生活"
+    },
+    "en": {
+      "title": "Forum season📒 | What I learned about FinTech in the age of AI",
+      "text": "Back-to-back forums and talks lately🎤\nFrom the “Future of FinTech in the Age of AI” panel to a TEDx event and a global-forum backdrop📸\nNotebook full — and more sure than ever that FinTech is where I want to be✨\n#Forums #FinTech #AI #SingaporeLife"
+    }
+  },
+  {
+    "id": "2026-09-careerfair",
+    "date": "2026-09-10",
+    "cover": "images/web/careerfair-1.jpg",
+    "image": "images/web/careerfair-1.jpg",
+    "images": [
+      "images/web/careerfair-1.jpg",
+      "images/web/careerfair-2.jpg"
+    ],
+    "tags": [
+      "forum",
+      "work"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "招聘会打卡🤝｜和业界前辈聊了一下午",
+      "text": "穿上白衬衫去逛招聘会👔\n一个摊位一个摊位地问，认识了好多很 nice 的人☕️\n秋招冲鸭，每一次交流都是在攒经验💪\n#招聘会 #秋招 #求职日记 #networking"
+    },
+    "en": {
+      "title": "Career-fair day🤝 | an afternoon of great conversations",
+      "text": "White shirt on and off to the career fair👔\nBooth after booth, met so many kind people☕️\nRecruiting season — every chat is experience earned💪\n#CareerFair #Recruiting #JobHunt #Networking"
+    }
+  },
+  {
+    "id": "2026-08-friends",
+    "date": "2026-08-22",
+    "cover": "images/web/friends-2.jpg",
+    "image": "images/web/friends-2.jpg",
+    "images": [
+      "images/web/friends-2.jpg",
+      "images/web/friends-1.jpg",
+      "images/web/friends-3.jpg",
+      "images/web/friends-4.jpg"
+    ],
+    "tags": [
+      "friends"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "我的宝藏小伙伴们💛｜合影存档",
+      "text": "和小伙伴们的合影攒了一相册📷\n课室里、商场里、夜晚的海边，一起比耶的样子都好可爱✌️\n有你们在，异国的日子一点都不孤单🥹\n#小伙伴 #留学生活 #友情 #新加坡"
+    },
+    "en": {
+      "title": "My treasure friends💛 | photo archive",
+      "text": "A whole album of group shots with friends📷\nIn class, at the mall, by the water at night — peace signs everywhere✌️\nWith you around, life abroad never feels lonely🥹\n#Friends #StudyAbroad #Friendship #Singapore"
+    }
+  },
+  {
+    "id": "2026-scenery",
+    "date": "2026-04-05",
+    "cover": "images/web/scenery-canyon-1.jpg",
+    "image": "images/web/scenery-canyon-1.jpg",
+    "images": [
+      "images/web/scenery-canyon-1.jpg",
+      "images/web/scenery-canyon-2.jpg",
+      "images/web/scenery-river.jpg",
+      "images/web/scenery-lake.jpg",
+      "images/web/scenery-sunset.jpg"
+    ],
+    "tags": [
+      "photo",
+      "travel"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "风景摄影🏞️｜把看过的山川湖海存进相册",
+      "text": "抬头是峡谷里漏下的一线蓝天，低头是奔涌的河水🌊\n湖边吹风，城市里也能等到一颗橘子落日🌅\n相机里的风景，是我给自己的充电站🔋\n#风景摄影 #旅行 #手机摄影 #治愈系"
+    },
+    "en": {
+      "title": "Scenery📸🏞️ | saving the views I've collected",
+      "text": "A slice of blue sky through the canyon walls, a rushing river below🌊\nA breezy lakeside, and an orange sunset even in the city🌅\nThese views are my recharge station🔋\n#Landscape #Travel #PhonePhotography #Healing"
+    }
+  },
+  {
+    "id": "2026-09-citywalk",
+    "date": "2026-09-24",
+    "cover": "images/web/city-1.jpg",
+    "image": "images/web/city-1.jpg",
+    "images": [
+      "images/web/city-1.jpg",
+      "images/web/city-2.jpg",
+      "images/web/city-3.jpg"
+    ],
+    "tags": [
+      "travel",
+      "ootd"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "City Walk 出行记🚶‍♀️｜海湾边的城市天际线",
+      "text": "开完会顺路去海边走走🌆\n高楼、步道、海风，随手一拍都是大片🫶\n今天的穿搭也很满意，记录一下👗\n#citywalk #出行 #今日穿搭 #城市天际线"
+    },
+    "en": {
+      "title": "City walk🚶‍♀️ | skyline by the bay",
+      "text": "A stroll by the water after a busy day🌆\nTowers, boardwalks, sea breeze — every snap looks like a postcard🫶\nHappy with today's outfit too👗\n#CityWalk #OOTD #Skyline #Outing"
+    }
+  },
+  {
+    "id": "2026-09-nature",
+    "date": "2026-09-13",
+    "cover": "images/web/nature-lemur.jpg",
+    "image": "images/web/nature-lemur.jpg",
+    "images": [
+      "images/web/nature-lemur.jpg",
+      "images/web/nature-forest.jpg",
+      "images/web/nature-cat.jpg"
+    ],
+    "tags": [
+      "travel",
+      "nature"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "和小动物的偶遇🐒｜绿意满满的一天",
+      "text": "钻进热带雨林，近距离见到了环尾狐猴😍\n满眼都是绿色，空气里都是树叶的味道🌿\n还有路上遇到的猫猫，乖乖让我拍了一张🐱\n#小动物 #自然 #雨林 #猫猫"
+    },
+    "en": {
+      "title": "Meeting little animals🐒 | a day full of green",
+      "text": "Into the rainforest and face to face with a ring-tailed lemur😍\nGreen everywhere, air smelling of leaves🌿\nPlus a kitty on the way who posed nicely for me🐱\n#Animals #Nature #Rainforest #Cats"
+    }
+  },
+  {
+    "id": "2026-09-fitness",
+    "date": "2026-09-02",
+    "cover": "images/web/gym-1.jpg",
+    "image": "images/web/gym-1.jpg",
+    "images": [
+      "images/web/gym-1.jpg",
+      "images/web/gym-2.jpg"
+    ],
+    "tags": [
+      "fitness"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "今日份运动打卡💪｜流汗的感觉真好",
+      "text": "力量训练练背，一组一组慢慢加📈\n舞蹈室里也来一张镜子自拍🪞\n坚持运动，是给自己最好的礼物✨\n#健身 #自律 #运动打卡 #健身女孩"
+    },
+    "en": {
+      "title": "Workout check-in💪 | nothing beats a good sweat",
+      "text": "Back day at the gym, adding weight set by set📈\nAnd a mirror selfie in the dance studio🪞\nStaying active is the best gift to myself✨\n#Fitness #Discipline #Workout #GymGirl"
+    }
+  },
+  {
+    "id": "2025-07-miniature",
+    "date": "2025-07-17",
+    "cover": "images/web/mini-1.jpg",
+    "image": "images/web/mini-1.jpg",
+    "images": [
+      "images/web/mini-1.jpg",
+      "images/web/mini-2.jpg"
+    ],
+    "tags": [
+      "craft"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "手作微缩小屋🏠｜一点点拼出来的小世界",
+      "text": "迷你餐桌、小蛋糕、小厨房，全都是一点点做出来的🧁\n做手作的时候特别安静，很解压🧩\n成品出来的那一刻超有成就感！\n#手作 #微缩模型 #解压 #DIY"
+    },
+    "en": {
+      "title": "Handmade miniature room🏠 | a tiny world, piece by piece",
+      "text": "A mini dining table, tiny cakes and a little kitchen — all built bit by bit🧁\nCrafting is so quiet and relaxing🧩\nSeeing it finished felt amazing!\n#Handmade #Miniature #DIY #Relaxing"
+    }
+  },
+  {
+    "id": "2024-work",
+    "date": "2024-01-27",
+    "cover": "images/web/work-pingan.jpg",
+    "image": "images/web/work-pingan.jpg",
+    "images": [
+      "images/web/work-pingan.jpg",
+      "images/web/work-prudential.jpg"
+    ],
+    "tags": [
+      "work",
+      "speaking"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "实习回忆录💼｜从签到台到分组讨论",
+      "text": "平安银行财富管理论坛，签到台前和同事合影📸\n保诚香港项目里，拿着 iPad 主持分组讨论🎤\n每一段实习都让我更懂金融，也更懂自己✨\n#实习 #职场 #金融 #成长"
+    },
+    "en": {
+      "title": "Internship memories💼 | from check-in desk to group discussion",
+      "text": "At the check-in desk of the Ping An Bank wealth-management forum with a colleague📸\nHosting a group discussion with an iPad on the Prudential Hong Kong program🎤\nEach internship taught me more about finance — and about myself✨\n#Internship #Work #Finance #Growth"
+    }
+  },
+  {
+    "id": "2024-01-calligraphy",
+    "date": "2024-01-26",
+    "cover": "images/web/calligraphy.jpg",
+    "image": "images/web/calligraphy.jpg",
+    "images": [
+      "images/web/calligraphy.jpg"
+    ],
+    "tags": [
+      "craft"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "写春联🧧｜一笔一画的年味",
+      "text": "和朋友一起铺开红纸、研好墨🖌️\n一笔一画写下新年的祝福，年味一下就来了🏮\n#写春联 #书法 #新年 #传统文化"
+    },
+    "en": {
+      "title": "Writing Spring Festival couplets🧧 | New Year, stroke by stroke",
+      "text": "Red paper laid out, ink ready🖌️\nWriting New Year wishes stroke by stroke — instant festive vibes🏮\n#Calligraphy #ChineseNewYear #Tradition #Couplets"
+    }
+  },
+  {
+    "id": "sample-reading",
+    "sample": true,
+    "date": "",
+    "image": "",
+    "emoji": "📚",
+    "cover": "linear-gradient(160deg,#EDE8F3,#D8D0E3)",
+    "tags": [
+      "reading"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "【示例】读书笔记模板 📚",
+      "text": "这是一条示例帖子（模板）。可以写：书名与作者、三句最打动你的摘抄、一句自己的感想。在 posts.json 中把这一段改成你的内容即可。"
+    },
+    "en": {
+      "title": "[Sample] Reading-notes template 📚",
+      "text": "This is a sample (template) post. Write the book and author, three favourite quotes and one takeaway. Edit this block in posts.json."
+    },
+    "images": []
+  },
+  {
+    "id": "sample-movie",
+    "sample": true,
+    "date": "",
+    "image": "",
+    "emoji": "🎬",
+    "cover": "linear-gradient(160deg,#E4EBF2,#CBD6E2)",
+    "tags": [
+      "movie"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "【示例】观影记录模板 🎬",
+      "text": "这是一条示例帖子（模板）。可以写：片名、一句话推荐、你的评分和印象最深的一个镜头。"
+    },
+    "en": {
+      "title": "[Sample] Movie-log template 🎬",
+      "text": "This is a sample (template) post. Write the title, a one-line recommendation, your rating and a favourite scene."
+    },
+    "images": []
+  },
+  {
+    "id": "sample-writing",
+    "sample": true,
+    "date": "",
+    "image": "",
+    "emoji": "✍️",
+    "cover": "linear-gradient(160deg,#F4EEE3,#E5D9C5)",
+    "tags": [
+      "writing"
+    ],
+    "likes": 0,
+    "zh": {
+      "title": "【示例】随笔模板 ✍️",
+      "text": "这是一条示例帖子（模板）。可以写一段随笔、周记或一次复盘。"
+    },
+    "en": {
+      "title": "[Sample] Short-essay template ✍️",
+      "text": "This is a sample (template) post. Use it for a short essay, a weekly note or a retrospective."
+    },
+    "images": []
+  }
+]
